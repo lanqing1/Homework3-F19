@@ -1,0 +1,21 @@
+PODS:
+  - PhoneNumberKit (2.6.0):
+    - PhoneNumberKit/PhoneNumberKitCore (= 2.6.0)
+    - PhoneNumberKit/UIKit (= 2.6.0)
+  - PhoneNumberKit/PhoneNumberKitCore (2.6.0)
+  - PhoneNumberKit/UIKit (2.6.0):
+    - PhoneNumberKit/PhoneNumberKitCore
+
+DEPENDENCIES:
+  - PhoneNumberKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - PhoneNumberKit
+
+SPEC CHECKSUMS:
+  PhoneNumberKit: 167ee1f0bbb6efce7c62559e620eae745595532f
+
+PODFILE CHECKSUM: e3eca44bbb6364b69152308e5169c245e9478e83
+
+COCOAPODS: 1.7.2
